@@ -1,1 +1,4 @@
 Zabudol Som
+
+Anotacia:
+Naprogramovanie piatich hier v piatich roznych hernych enginoch alebo inych nastrojoch na tvorbu hier (napriklad Game Maker) a ich porovnanie z hladiska funkcnosti a vhodnosti na urcite use cases.
